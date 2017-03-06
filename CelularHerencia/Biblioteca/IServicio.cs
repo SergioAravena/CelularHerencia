@@ -8,7 +8,7 @@ namespace Biblioteca
  public   interface IServicio
     {
 
-         int ReiniciarMinutosPlan();
+         void ReiniciarMinutosPlan();
 
     }
 }
