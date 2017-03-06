@@ -41,6 +41,7 @@
   <ItemGroup>
     <Compile Include="CelularConPlan.cs" />
     <Compile Include="CelularCtaControlada.cs" />
+    <Compile Include="CelularCtaIlimitada.cs" />
     <Compile Include="IServicio.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
